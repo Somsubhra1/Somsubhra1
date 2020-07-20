@@ -38,7 +38,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 <p align="center">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Somsubhra1&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Somsubhra1&show_icons=true)<br>
 ![Profile views](https://gpvc.arturio.dev/Somsubhra1)
 
 </p>
