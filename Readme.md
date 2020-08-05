@@ -42,3 +42,11 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 ![Profile views](https://gpvc.arturio.dev/Somsubhra1)
 
 </p>
+
+#### CodersRank Profile
+
+<p align="center">
+<codersrank-widget username="somsubhra1"></codersrank-widget>
+</p>
+
+<script src="https://profile.codersrank.io/widget/widget.js"></script>
