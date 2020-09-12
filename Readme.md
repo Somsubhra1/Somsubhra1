@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there 👋, I'm Somsubhra Das. </h3>
 
-<h4 align="center"> I'm am a full Stack MERN Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
+<h4 align="center"> I'm am a full Stack MERN/MEAN Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
 #### BIO
 
@@ -9,6 +9,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 #### SKILLS
 
 - MERN Stack
+- MEAN Stack
 - LAMPP Stack
 - App Development
 - Linux Systems Administration
@@ -18,9 +19,9 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 #### WORKS
 
-- 🔭 I’m currently working on https://blog.spieosauemk.team/
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on MERN Stack Projects
+- 🔭 I’m currently working on https://learnbird.in/
+- 🌱 I’m currently learning Django
+- 👯 I’m looking to collaborate Full Stack Web development Projects
 - 💬 Ask me about Full Stack Web Development | App Development | GUI Based Applications | Data Structures | Algorithms
 - 📫 How to reach me: https://www.linkedin.com/in/somsubhradas/
 - 😄 Pronouns: | Web developer | Coder | Tech lover | Foodie | Music Lover | Geek | Bookworm | Introvert
