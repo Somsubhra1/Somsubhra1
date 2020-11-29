@@ -22,7 +22,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 - 🔭 I’m currently working as Backend developer Intern https://dezignoo.com/
 - 🌱 I’m currently learning Django & Python Stack
 - 👯 I’m looking to collaborate Full Stack Web development Projects
-- 💼 Portfolio: Check out my Portfolio at https://somsubhra1.github.io
+- 💼 Portfolio: Check out my Portfolio at https://somsubhra.co
 - 💬 Ask me about Full Stack Web Development | App Development | GUI Based Applications | Data Structures | Algorithms
 - 📫 How to reach me: https://www.linkedin.com/in/somsubhradas/
 - 😄 Pronouns: | Web developer | Coder | Tech lover | Foodie | Music Lover | Geek | Bookworm | Introvert
@@ -32,7 +32,7 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 <p align="center">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Somsubhra1) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/somsubhradas/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/S0msubhradas) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/somsubhra__das/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Somsubhra1CP) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10871274/somsubhra-das) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://somsubhra1.github.io/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Somsubhra1) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/somsubhradas/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/S0msubhradas) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/somsubhra__das/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Somsubhra1CP) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10871274/somsubhra-das) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://somsubhra.co/)
 
 </p>
 
