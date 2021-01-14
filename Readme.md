@@ -36,6 +36,10 @@ Full Stack MERN Web Developer, React Native App Developer. Also efficient in wor
 
 </p>
 
+#### GITHUB PROFILE TROPHIES
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Somsubhra1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 #### GITHUB STATS
 
 <p align="center">
