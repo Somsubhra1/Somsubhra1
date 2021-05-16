@@ -22,9 +22,9 @@ Full Stack Web Developer, NodeJS, Django Developer. Also efficient in working wi
 | :---------------------------: | :-----------------------------------------------------------: | :-----------------: |
 | Lead Backend Developer Intern |              [@Dezignoo](https://dezignoo.com/)               | Oct 2020 - Present  |
 | Backend Developer Freelancer  |               [@Smow (Canada)](http://smow.ca/)               | May 2020 - Present  |
-|   Backend Developer Intern    |       [@Unigo Cabs](https://github.com/UnigoCabs-Dev/)        | Jan 2020 - Apr 2020 |
-|    NodeJS Backend Engineer    |       [@ThirdX Design (Berlin)](https://thirdx.design/)       | Dec 2020 - Feb 2020 |
-|   Backend Developer Intern    |            [@Simpheal Inc](https://simpheal.com/)             | Dec 2020 - Jan 2020 |
+|   Backend Developer Intern    |       [@Unigo Cabs](https://github.com/UnigoCabs-Dev/)        | Jan 2020 - Apr 2021 |
+|    NodeJS Backend Engineer    |       [@ThirdX Design (Berlin)](https://thirdx.design/)       | Dec 2020 - Feb 2021 |
+|   Backend Developer Intern    |            [@Simpheal Inc](https://simpheal.com/)             | Dec 2020 - Jan 2021 |
 |          Freelancer           | [@Calcutta Pilot Training](http://calcuttapilottraining.com/) | Nov 2020 - Dec 2020 |
 |       Backend Developer       |       [@learnbird-official](https://www.learnbird.in/)        | Apr 2020 - Nov 2020 |
 
