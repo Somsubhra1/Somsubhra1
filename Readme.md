@@ -1,29 +1,40 @@
 <h3 align="center"> Hi there 👋, I'm Somsubhra Das. </h3>
 
-<h4 align="center"> I'm am a full Stack MERN/MEAN Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
+<h4 align="center"> I'm a full Stack Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata.  </h4>
 
 #### BIO
 
-Full Stack MERN Web Developer, React Native App Developer. Also efficient in working with LAMPP stack, NestJS, server management automation using Bash, Desktop App Development using Java and Python, Android App Development using Java and Kotlin, experience in Web App Development. Proficient in System Administration and DevOps with great communicative and management skills.
+Full Stack Web Developer, NodeJS, Django Developer. Also efficient in working with LAMP stack, NestJS, server management automation using Bash, Desktop App Development using Java and Python, Android App Development using Java and Kotlin, experience in Web App Development. Proficient in System Administration and DevOps with great communicative and management skills.
 
 #### SKILLS
 
 - MERN Stack
 - MEAN Stack
-- LAMPP Stack
-- App Development
+- Python Stack
+- LAMP Stack
 - Linux Systems Administration
-- Desktop App Development
 - Firebase
 - DevOps
 
+#### PROFESSIONAL EXPERIENCE
+
+|        💼 Designation         |                        🏢 Organization                        |     ⏰ Timeline     |
+| :---------------------------: | :-----------------------------------------------------------: | :-----------------: |
+| Lead Backend Developer Intern |              [@Dezignoo](https://dezignoo.com/)               | Oct 2020 - Present  |
+| Backend Developer Freelancer  |               [@Smow (Canada)](http://smow.ca/)               | May 2020 - Present  |
+|   Backend Developer Intern    |       [@Unigo Cabs](https://github.com/UnigoCabs-Dev/)        | Jan 2020 - Apr 2020 |
+|    NodeJS Backend Engineer    |       [@ThirdX Design (Berlin)](https://thirdx.design/)       | Dec 2020 - Feb 2020 |
+|   Backend Developer Intern    |            [@Simpheal Inc](https://simpheal.com/)             | Dec 2020 - Jan 2020 |
+|          Freelancer           | [@Calcutta Pilot Training](http://calcuttapilottraining.com/) | Nov 2020 - Dec 2020 |
+|       Backend Developer       |       [@learnbird-official](https://www.learnbird.in/)        | Apr 2020 - Nov 2020 |
+
 #### WORKS
 
-- 🔭 I’m currently working as Backend developer Intern https://dezignoo.com/
+- 🔭 I’m currently working as the Lead Backend Developer (Intern) at https://dezignoo.com/
 - 🌱 I’m currently learning Django & Python Stack
-- 👯 I’m looking to collaborate Full Stack Web development Projects
+- 👯 I’m looking to collaborate Full Stack Web Development Projects
 - 💼 Portfolio: Check out my Portfolio at https://somsubhra.co
-- 💬 Ask me about Full Stack Web Development | App Development | GUI Based Applications | Data Structures | Algorithms
+- 💬 Ask me about Full Stack Web Development | Backend Development | App Development | GUI Based Applications | Data Structures | Algorithms
 - 📫 How to reach me: https://www.linkedin.com/in/somsubhradas/
 - 😄 Pronouns: | Web developer | Coder | Tech lover | Foodie | Music Lover | Geek | Bookworm | Introvert
 - ⚡ Fun fact: Talk is cheap. Show me the code.
