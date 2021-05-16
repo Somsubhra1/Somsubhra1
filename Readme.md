@@ -26,7 +26,18 @@ Full Stack Web Developer, NodeJS, Django Developer. Also efficient in working wi
 |    NodeJS Backend Engineer    |       [@ThirdX Design (Berlin)](https://thirdx.design/)       | Dec 2020 - Feb 2021 |
 |   Backend Developer Intern    |            [@Simpheal Inc](https://simpheal.com/)             | Dec 2020 - Jan 2021 |
 |          Freelancer           | [@Calcutta Pilot Training](http://calcuttapilottraining.com/) | Nov 2020 - Dec 2020 |
-|       Backend Developer       |       [@Learnbird](https://www.learnbird.in/)        | Apr 2020 - Nov 2020 |
+|       Backend Developer       |            [@Learnbird](https://www.learnbird.in/)            | Apr 2020 - Nov 2020 |
+
+#### VOLUNTEER/COMMUNITY EXPERIENCE
+
+|           💼 Designation            |                      🏢 Organization                       |     ⏰ Timeline     |
+| :---------------------------------: | :--------------------------------------------------------: | :-----------------: |
+|         Student Ambassador          | [@AgoraIO-Community](https://github.com/AgoraIO-Community) | Apr 2021 - Present  |
+|           Student Expert            |      [@Postmanlabs](https://github.com/postmanlabs/)       | Mar 2021 - Present  |
+|           Web Design Lead           |              [@DSC UEMK](https://dscuemk.co/)              | Oct 2020 - Present  |
+| Vice President & Lead Web Developer |         [@SPIE OSA UEMK](http://spieosauemk.team/)         | Jan 2020 - Present  |
+|           Student Member            |                       [@IETE UEMK]()                       | Sept 2019 - Present |
+|         Lead Web Developer          |              [@Ureckon](https://ureckon.org/)              | Oct 2018 - Present  |
 
 #### WORKS
 
