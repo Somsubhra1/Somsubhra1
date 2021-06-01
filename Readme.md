@@ -1,10 +1,10 @@
 <h3 align="center"> Hi there 👋, I'm Somsubhra Das. </h3>
 
-<h4 align="center"> I'm a full Stack Web Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata.  </h4>
+<h4 align="center"> I'm a full Stack Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata.  </h4>
 
 #### BIO
 
-Full Stack Web Developer, NodeJS, Django Developer. Also efficient in working with LAMP stack, NestJS, server management automation using Bash, Desktop App Development using Java and Python, Android App Development using Java and Kotlin, experience in Web App Development. Proficient in System Administration and DevOps with great communicative and management skills.
+Full Stack Developer, NodeJS, Django Developer. Also efficient in working with LAMP stack, NestJS, server management automation using Bash, Desktop App Development using Java and Python, Android App Development using Java and Kotlin, experience in Web App Development. Proficient in System Administration and DevOps with great communicative and management skills.
 
 #### SKILLS
 
@@ -33,7 +33,7 @@ Full Stack Web Developer, NodeJS, Django Developer. Also efficient in working wi
 |           💼 Designation            |                      🏢 Organization                       |     ⏰ Timeline     |
 | :---------------------------------: | :--------------------------------------------------------: | :-----------------: |
 |         Student Ambassador          | [@AgoraIO-Community](https://github.com/AgoraIO-Community) | Apr 2021 - Present  |
-|           Student Expert            |      [@Postmanlabs](https://github.com/postmanlabs/)       | Mar 2021 - Present  |
+|       Student Leader & Expert       |      [@Postmanlabs](https://github.com/postmanlabs/)       | Mar 2021 - Present  |
 |           Web Design Lead           |              [@DSC UEMK](https://dscuemk.co/)              | Oct 2020 - Present  |
 | Vice President & Lead Web Developer |         [@SPIE OSA UEMK](http://spieosauemk.team/)         | Jan 2020 - Present  |
 |           Student Member            |                       [@IETE UEMK]()                       | Sept 2019 - Present |
@@ -60,7 +60,7 @@ Full Stack Web Developer, NodeJS, Django Developer. Also efficient in working wi
 
 #### GITHUB PROFILE TROPHIES
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Somsubhra1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Somsubhra1&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### GITHUB STATS
 
