@@ -81,5 +81,13 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#219](https://github.com/mikenicholson/passport-jwt/issues/219) in [mikenicholson/passport-jwt](https://github.com/mikenicholson/passport-jwt)
 <!--END_SECTION:activity-->
+
+#### OVERALL ACTIVITY
+
+<details>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
