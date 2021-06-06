@@ -33,7 +33,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 |           💼 Designation            |                      🏢 Organization                       |     ⏰ Timeline     |
 | :---------------------------------: | :--------------------------------------------------------: | :-----------------: |
 |         Student Ambassador          | [@AgoraIO-Community](https://github.com/AgoraIO-Community) | Apr 2021 - Present  |
-|       Student Leader & Expert       |      [@Postmanlabs](https://github.com/postmanlabs/)       | Mar 2021 - Present  |
+|           Student Expert            |      [@Postmanlabs](https://github.com/postmanlabs/)       | Mar 2021 - Present  |
 |           Web Design Lead           |              [@DSC UEMK](https://dscuemk.co/)              | Oct 2020 - Present  |
 | Vice President & Lead Web Developer |         [@SPIE OSA UEMK](http://spieosauemk.team/)         | Jan 2020 - Present  |
 |           Student Member            |                       [@IETE UEMK]()                       | Sept 2019 - Present |
@@ -64,6 +64,8 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 #### GITHUB STATS
 
+[![Somsubhra's github activity graph](https://activity-graph.herokuapp.com/graph?username=somsubhra1&theme=react-dark)](https://git.io/somsubhra1)
+
 <p align="center">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Somsubhra1&show_icons=true)<br>
@@ -72,3 +74,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 ![Profile views](https://gpvc.arturio.dev/Somsubhra1)
 
 </p>
+
+#### RECENT ACTIVITY
+
+<!--START_SECTION:activity-->
