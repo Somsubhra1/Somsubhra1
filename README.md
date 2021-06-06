@@ -4,7 +4,7 @@
 
 #### BIO
 
-Full Stack Developer, NodeJS, Django Developer. Also efficient in working with LAMP stack, NestJS, server management automation using Bash, Desktop App Development using Java and Python, Android App Development using Java and Kotlin, experience in Web App Development. Proficient in System Administration and DevOps with great communicative and management skills.
+Full Stack Developer, NodeJS, Django Developer. Also efficient in working with LAMP stack, NestJS, server management automation using Bash, Desktop App Development using Java and Python, experience in Web App Development. Proficient in System Administration and DevOps with great communicative and management skills.
 
 #### SKILLS
 
@@ -64,11 +64,14 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 #### GITHUB STATS
 
-[![Somsubhra's github activity graph](https://activity-graph.herokuapp.com/graph?username=somsubhra1&theme=react-dark)](https://git.io/somsubhra1)
+[![Somsubhra's github activity graph](https://activity-graph.herokuapp.com/graph?username=somsubhra1&theme=react-dark)](https://github.com/somsubhra1)
 
 <p align="center">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Somsubhra1&show_icons=true)<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Somsubhra1&theme=light" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somsubhra1&layout=compact&theme=light" />
 
 ![Profile views](https://gpvc.arturio.dev/Somsubhra1)
