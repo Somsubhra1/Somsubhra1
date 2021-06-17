@@ -93,7 +93,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 > 🏆 961 Contributions in the Year 2021
  > 
-> 📦 315.6 kB Used in Github's Storage 
+> 📦 315.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
