@@ -21,7 +21,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 |        💼 Designation         |                        🏢 Organization                        |     ⏰ Timeline     |
 | :---------------------------: | :-----------------------------------------------------------: | :-----------------: |
 | Lead Backend Developer Intern |              [@Dezignoo](https://dezignoo.com/)               | Oct 2020 - Present  |
-| Backend Developer Freelancer  |               [@Smow (Canada)](http://smow.ca/)               | May 2021 - Present  |
+| Backend Developer Freelancer  |               [@Smow (Canada)](http://smow.ca/)               |      May 2021       |
 |   Backend Developer Intern    |       [@Unigo Cabs](https://github.com/UnigoCabs-Dev/)        | Jan 2021 - Apr 2021 |
 |    NodeJS Backend Engineer    |       [@ThirdX Design (Berlin)](https://thirdx.design/)       | Dec 2020 - Feb 2021 |
 |   Backend Developer Intern    |            [@Simpheal Inc](https://simpheal.com/)             | Dec 2020 - Jan 2021 |
@@ -33,6 +33,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 |           💼 Designation            |                      🏢 Organization                       |     ⏰ Timeline     |
 | :---------------------------------: | :--------------------------------------------------------: | :-----------------: |
 |         Student Ambassador          | [@AgoraIO-Community](https://github.com/AgoraIO-Community) | Apr 2021 - Present  |
+|         Student Ambassador          |                  [@APS](https://aps.org)                   | Apr 2021 - Present  |
 |           Student Expert            |      [@Postmanlabs](https://github.com/postmanlabs/)       | Mar 2021 - Present  |
 |           Web Design Lead           |              [@DSC UEMK](https://dscuemk.co/)              | Oct 2020 - Present  |
 | Vice President & Lead Web Developer |         [@SPIE OSA UEMK](http://spieosauemk.team/)         | Jan 2020 - Present  |
@@ -89,72 +90,70 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <details>
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 787 Contributions in the Year 2021
- > 
-> 📦 313.4 kB Used in Github's Storage 
- > 
+>
+> 📦 313.4 kB Used in Github's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 129 Public Repositories 
- > 
-> 🔑 16 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 129 Public Repositories
+>
+> 🔑 16 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    138 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
-🌆 Daytime    496 commits    █████████░░░░░░░░░░░░░░░░   36.63% 
-🌃 Evening    548 commits    ██████████░░░░░░░░░░░░░░░   40.47% 
+🌞 Morning    138 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.19%
+🌆 Daytime    496 commits    █████████░░░░░░░░░░░░░░░░   36.63%
+🌃 Evening    548 commits    ██████████░░░░░░░░░░░░░░░   40.47%
 🌙 Night      172 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.7%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       180 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
-Tuesday      150 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
-Wednesday    151 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
-Thursday     223 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
-Friday       194 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.33% 
-Saturday     211 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
+Monday       180 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.29%
+Tuesday      150 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.08%
+Wednesday    151 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.15%
+Thursday     223 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.47%
+Friday       194 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.33%
+Saturday     211 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.58%
 Sunday       245 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.09%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-JavaScript               55 mins             ████████████░░░░░░░░░░░░░   50.63% 
-YAML                     43 mins             ██████████░░░░░░░░░░░░░░░   40.19% 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.73% 
-HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.56% 
+💬 Programming Languages:
+JavaScript               55 mins             ████████████░░░░░░░░░░░░░   50.63%
+YAML                     43 mins             ██████████░░░░░░░░░░░░░░░   40.19%
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.73%
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.56%
 Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  1 hr 49 mins        █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               43 repos            ██████████░░░░░░░░░░░░░░░   43.43% 
-HTML                     18 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-CSS                      15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
+JavaScript               43 repos            ██████████░░░░░░░░░░░░░░░   43.43%
+HTML                     18 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.18%
+CSS                      15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.15%
+Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.08%
 TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
-
+![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png)
 
 <!--END_SECTION:waka-->
 </details>
