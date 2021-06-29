@@ -92,7 +92,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,069 Contributions in the Year 2021
+> 🏆 1,070 Contributions in the Year 2021
  > 
 > 📦 258.6 kB Used in Github's Storage 
  > 
@@ -100,7 +100,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
  > 
 > 📜 137 Public Repositories 
  > 
-> 🔑 13 Private Repositories  
+> 🔑 14 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -143,11 +143,11 @@ VS Code                  4 hrs 43 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               46 repos            ███████████░░░░░░░░░░░░░░   46.94% 
-HTML                     16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-CSS                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-Python                   11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
-TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
+JavaScript               46 repos            ███████████░░░░░░░░░░░░░░   47.42% 
+HTML                     16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
+CSS                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
+Python                   11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% 
+TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.19%
 
 ```
 
