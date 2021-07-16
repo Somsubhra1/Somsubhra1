@@ -18,15 +18,16 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 #### PROFESSIONAL EXPERIENCE
 
-|        💼 Designation         |                        🏢 Organization                        |     ⏰ Timeline     |
-| :---------------------------: | :-----------------------------------------------------------: | :-----------------: |
-| Lead Backend Developer Intern |              [@Dezignoo](https://dezignoo.com/)               | Oct 2020 - Present  |
-| Backend Developer Freelancer  |               [@Smow (Canada)](http://smow.ca/)               |      May 2021       |
-|   Backend Developer Intern    |       [@Unigo Cabs](https://github.com/UnigoCabs-Dev/)        | Jan 2021 - Apr 2021 |
-|    NodeJS Backend Engineer    |       [@ThirdX Design (Berlin)](https://thirdx.design/)       | Dec 2020 - Feb 2021 |
-|   Backend Developer Intern    |            [@Simpheal Inc](https://simpheal.com/)             | Dec 2020 - Jan 2021 |
-|          Freelancer           | [@Calcutta Pilot Training](http://calcuttapilottraining.com/) | Nov 2020 - Dec 2020 |
-|       Backend Developer       |            [@Learnbird](https://www.learnbird.in/)            | Apr 2020 - Nov 2020 |
+|        💼 Designation         |                          🏢 Organization                          |     ⏰ Timeline     |
+| :---------------------------: | :---------------------------------------------------------------: | :-----------------: |
+|        Project Mentor         | [@IEM Labs](https://github.com/IEMA-Research-Development-Pvt-Ltd) | Jul 2021 - Present  |
+| Lead Backend Developer Intern |                [@Dezignoo](https://dezignoo.com/)                 | Oct 2020 - Present  |
+| Backend Developer Freelancer  |                 [@Smow (Canada)](http://smow.ca/)                 |      May 2021       |
+|   Backend Developer Intern    |         [@Unigo Cabs](https://github.com/UnigoCabs-Dev/)          | Jan 2021 - Apr 2021 |
+|    NodeJS Backend Engineer    |         [@ThirdX Design (Berlin)](https://thirdx.design/)         | Dec 2020 - Feb 2021 |
+|   Backend Developer Intern    |              [@Simpheal Inc](https://simpheal.com/)               | Dec 2020 - Jan 2021 |
+|          Freelancer           |   [@Calcutta Pilot Training](http://calcuttapilottraining.com/)   | Nov 2020 - Dec 2020 |
+|       Backend Developer       |              [@Learnbird](https://www.learnbird.in/)              | Apr 2020 - Nov 2020 |
 
 #### VOLUNTEER/COMMUNITY EXPERIENCE
 
