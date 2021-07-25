@@ -88,6 +88,11 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 1. 🗣 Commented on [#219](https://github.com/mikenicholson/passport-jwt/issues/219) in [mikenicholson/passport-jwt](https://github.com/mikenicholson/passport-jwt)
 <!--END_SECTION:activity-->
 
+#### MY LATEST BLOGS
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 #### OVERALL ACTIVITY
 
 <details>
