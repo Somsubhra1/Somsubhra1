@@ -91,6 +91,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 #### MY LATEST BLOGS
 
 <!-- BLOG-POST-LIST:START -->
+- [Journey from Mongoose to Prisma ORM for MongoDB!](https://dev.to/somsubhra1/journey-from-mongoose-to-prisma-orm-for-mongodb-3j21)
 - [DigitalOcean MongoDB Hackathon - Memories Sharing App](https://dev.to/somsubhra1/digitalocean-mongodb-hackathon-memories-sharing-app-2kne)
 <!-- BLOG-POST-LIST:END -->
 
