@@ -18,17 +18,17 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 #### PROFESSIONAL EXPERIENCE
 
-|        💼 Designation         |                          🏢 Organization                          |     ⏰ Timeline     |
-| :---------------------------: | :---------------------------------------------------------------: | :-----------------: |
-|  Software Development Intern  |                   [@SDS](https://seamless.se/)                    | Aug 2021 - Present  |
-|        Project Mentor         | [@IEM Labs](https://github.com/IEMA-Research-Development-Pvt-Ltd) | Jul 2021 - Present  |
-| Lead Backend Developer Intern |                [@Dezignoo](https://dezignoo.com/)                 | Oct 2020 - Present  |
-| Backend Developer Freelancer  |                 [@Smow (Canada)](http://smow.ca/)                 |      May 2021       |
-|   Backend Developer Intern    |         [@Unigo Cabs](https://github.com/UnigoCabs-Dev/)          | Jan 2021 - Apr 2021 |
-|    NodeJS Backend Engineer    |         [@ThirdX Design (Berlin)](https://thirdx.design/)         | Dec 2020 - Feb 2021 |
-|   Backend Developer Intern    |              [@Simpheal Inc](https://simpheal.com/)               | Dec 2020 - Jan 2021 |
-|          Freelancer           |   [@Calcutta Pilot Training](http://calcuttapilottraining.com/)   | Nov 2020 - Dec 2020 |
-|       Backend Developer       |              [@Learnbird](https://www.learnbird.in/)              | Apr 2020 - Nov 2020 |
+|            💼 Designation            |                          🏢 Organization                          |     ⏰ Timeline     |
+| :----------------------------------: | :---------------------------------------------------------------: | :-----------------: |
+| Software Development Engineer Intern |                   [@SDS](https://seamless.se/)                    | Aug 2021 - Present  |
+|            Project Mentor            | [@IEM Labs](https://github.com/IEMA-Research-Development-Pvt-Ltd) | Jul 2021 - Present  |
+|    Lead Backend Developer Intern     |                [@Dezignoo](https://dezignoo.com/)                 | Oct 2020 - Present  |
+|     Backend Developer Freelancer     |                 [@Smow (Canada)](http://smow.ca/)                 |      May 2021       |
+|       Backend Developer Intern       |         [@Unigo Cabs](https://github.com/UnigoCabs-Dev/)          | Jan 2021 - Apr 2021 |
+|       NodeJS Backend Engineer        |         [@ThirdX Design (Berlin)](https://thirdx.design/)         | Dec 2020 - Feb 2021 |
+|       Backend Developer Intern       |              [@Simpheal Inc](https://simpheal.com/)               | Dec 2020 - Jan 2021 |
+|              Freelancer              |   [@Calcutta Pilot Training](http://calcuttapilottraining.com/)   | Nov 2020 - Dec 2020 |
+|          Backend Developer           |              [@Learnbird](https://www.learnbird.in/)              | Apr 2020 - Nov 2020 |
 
 #### VOLUNTEER/COMMUNITY EXPERIENCE
 
@@ -45,8 +45,8 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 #### WORKS
 
-- 🔭 I’m currently working as the Software Development (Intern) at https://seamless.se/
-- 🌱 I’m currently learning Java EE & Spring.
+- 🔭 I’m currently working as the Software Development Engineer (Intern) at https://seamless.se/
+- 🌱 I’m currently learning Java EE & Spring Framework.
 - 👯 I’m looking to collaborate Full Stack Web Development Projects
 - 💼 Portfolio: Check out my Portfolio at https://somsubhra.co
 - 💬 Ask me about Full Stack Web Development | Backend Development | App Development | GUI Based Applications | Data Structures | Algorithms
@@ -92,6 +92,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 #### MY LATEST BLOGS
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Supabase - An OpenSource Firebase Alternative](https://dev.to/somsubhra1/supabase-an-opensource-firebase-alternative-51h4)
 - [Journey from Mongoose to Prisma ORM for MongoDB!](https://dev.to/somsubhra1/journey-from-mongoose-to-prisma-orm-for-mongodb-3j21)
 - [DigitalOcean MongoDB Hackathon - Memories Sharing App](https://dev.to/somsubhra1/digitalocean-mongodb-hackathon-memories-sharing-app-2kne)
@@ -101,74 +102,73 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <details>
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 1,262 Contributions in the Year 2021
- > 
-> 📦 262.0 kB Used in Github's Storage 
- > 
+>
+> 📦 262.0 kB Used in Github's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 144 Public Repositories 
- > 
-> 🔑 14 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 144 Public Repositories
+>
+> 🔑 14 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    184 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
-🌆 Daytime    612 commits    █████████░░░░░░░░░░░░░░░░   37.62% 
-🌃 Evening    639 commits    █████████░░░░░░░░░░░░░░░░   39.27% 
+🌞 Morning    184 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.31%
+🌆 Daytime    612 commits    █████████░░░░░░░░░░░░░░░░   37.62%
+🌃 Evening    639 commits    █████████░░░░░░░░░░░░░░░░   39.27%
 🌙 Night      192 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.8%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       185 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.37% 
-Tuesday      206 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
-Wednesday    186 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-Thursday     265 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.29% 
-Friday       241 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-Saturday     256 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
+Monday       185 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.37%
+Tuesday      206 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.66%
+Wednesday    186 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.43%
+Thursday     265 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.29%
+Friday       241 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.81%
+Saturday     256 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73%
 Sunday       288 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.7%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Java                     1 hr 47 mins        ████████████████░░░░░░░░░   65.3% 
-JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
-XML                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-Properties               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
+💬 Programming Languages:
+Java                     1 hr 47 mins        ████████████████░░░░░░░░░   65.3%
+JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.17%
+XML                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.22%
+Properties               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.17%
 YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.9%
 
-🔥 Editors: 
-IntelliJ                 2 hrs 21 mins       █████████████████████░░░░   86.16% 
+🔥 Editors:
+IntelliJ                 2 hrs 21 mins       █████████████████████░░░░   86.16%
 VS Code                  22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               42 repos            ██████████░░░░░░░░░░░░░░░   43.3% 
-HTML                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.43% 
-CSS                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
-Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
+JavaScript               42 repos            ██████████░░░░░░░░░░░░░░░   43.3%
+HTML                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.43%
+CSS                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.37%
+Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.37%
 TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.19%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png)
 
+Last Updated on 22/08/2021
 
- Last Updated on 22/08/2021
 <!--END_SECTION:waka-->
 </details>
