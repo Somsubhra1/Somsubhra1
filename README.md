@@ -105,13 +105,13 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 > 🏆 1,289 Contributions in the Year 2021
  > 
-> 📦 262.0 kB Used in Github's Storage 
+> 📦 243.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 146 Public Repositories 
  > 
-> 🔑 14 Private Repositories  
+> 🔑 13 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
