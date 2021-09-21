@@ -21,8 +21,8 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 |            💼 Designation            |                          🏢 Organization                          |     ⏰ Timeline     |
 | :----------------------------------: | :---------------------------------------------------------------: | :-----------------: |
 | Software Development Engineer Intern |                   [@SDS](https://seamless.se/)                    | Aug 2021 - Present  |
-|            Project Mentor            | [@IEM Labs](https://github.com/IEMA-Research-Development-Pvt-Ltd) | Jul 2021 - Present  |
 |    Lead Backend Developer Intern     |                [@Dezignoo](https://dezignoo.com/)                 | Oct 2020 - Present  |
+|            Project Mentor            | [@IEM Labs](https://github.com/IEMA-Research-Development-Pvt-Ltd) | Jul 2021 - Aug 2021 |
 |     Backend Developer Freelancer     |                 [@Smow (Canada)](http://smow.ca/)                 |      May 2021       |
 |       Backend Developer Intern       |         [@Unigo Cabs](https://github.com/UnigoCabs-Dev/)          | Jan 2021 - Apr 2021 |
 |       NodeJS Backend Engineer        |         [@ThirdX Design (Berlin)](https://thirdx.design/)         | Dec 2020 - Feb 2021 |
@@ -92,6 +92,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 #### MY LATEST BLOGS
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Prisma Data Platform - Prisma ORM on Cloud](https://dev.to/somsubhra1/prisma-data-platform-prisma-orm-on-cloud-2854)
 - [Supabase - An OpenSource Firebase Alternative](https://dev.to/somsubhra1/supabase-an-opensource-firebase-alternative-51h4)
 - [Journey from Mongoose to Prisma ORM for MongoDB!](https://dev.to/somsubhra1/journey-from-mongoose-to-prisma-orm-for-mongodb-3j21)
@@ -102,74 +103,73 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <details>
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 1,337 Contributions in the Year 2021
- > 
-> 📦 244.6 kB Used in Github's Storage 
- > 
+>
+> 📦 244.6 kB Used in Github's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 147 Public Repositories 
- > 
-> 🔑 13 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 147 Public Repositories
+>
+> 🔑 13 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    179 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
-🌆 Daytime    583 commits    █████████░░░░░░░░░░░░░░░░   36.44% 
-🌃 Evening    638 commits    ██████████░░░░░░░░░░░░░░░   39.88% 
+🌞 Morning    179 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.19%
+🌆 Daytime    583 commits    █████████░░░░░░░░░░░░░░░░   36.44%
+🌃 Evening    638 commits    ██████████░░░░░░░░░░░░░░░   39.88%
 🌙 Night      200 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       189 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
-Tuesday      219 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-Wednesday    175 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-Thursday     255 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
-Friday       233 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
-Saturday     262 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.38% 
+Monday       189 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.81%
+Tuesday      219 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.69%
+Wednesday    175 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.94%
+Thursday     255 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.94%
+Friday       233 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.56%
+Saturday     262 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.38%
 Sunday       267 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.69%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Java                     14 hrs 52 mins      ███████████████████░░░░░░   79.06% 
-XML                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
-JavaScript               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92% 
-Docker                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
+💬 Programming Languages:
+Java                     14 hrs 52 mins      ███████████████████░░░░░░   79.06%
+XML                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.96%
+JavaScript               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92%
+Docker                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
 Properties               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
 
-🔥 Editors: 
-IntelliJ                 17 hrs 57 mins      ███████████████████████░░   95.44% 
+🔥 Editors:
+IntelliJ                 17 hrs 57 mins      ███████████████████████░░   95.44%
 VS Code                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.56%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               41 repos            ██████████░░░░░░░░░░░░░░░   42.27% 
-HTML                     13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
-CSS                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
-Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
+JavaScript               41 repos            ██████████░░░░░░░░░░░░░░░   42.27%
+HTML                     13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.4%
+CSS                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.37%
+Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.37%
 TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.22%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png)
 
+Last Updated on 20/09/2021
 
- Last Updated on 20/09/2021
 <!--END_SECTION:waka-->
 </details>
