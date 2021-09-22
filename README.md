@@ -102,11 +102,11 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <details>
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 1,338 Contributions in the Year 2021
  > 
-> 📦 245.4 kB Used in Github's Storage 
+> 📦 245.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
