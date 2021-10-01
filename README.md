@@ -86,7 +86,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. ❌ Reopened PR [#513](https://github.com/AshuKulu/HacktoberFest2021/pull/513) in [AshuKulu/HacktoberFest2021](https://github.com/AshuKulu/HacktoberFest2021)
+1. ❗️ Opened issue [#47](https://github.com/Bauddhik-Geeks/Coding/issues/47) in [Bauddhik-Geeks/Coding](https://github.com/Bauddhik-Geeks/Coding)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
