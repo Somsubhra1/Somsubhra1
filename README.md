@@ -86,7 +86,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2719](https://github.com/openebs/openebs/issues/2719) in [openebs/openebs](https://github.com/openebs/openebs)
+1. ❌ Reopened PR [#513](https://github.com/AshuKulu/HacktoberFest2021/pull/513) in [AshuKulu/HacktoberFest2021](https://github.com/AshuKulu/HacktoberFest2021)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
