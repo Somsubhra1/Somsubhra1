@@ -86,7 +86,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#47](https://github.com/Bauddhik-Geeks/Coding/issues/47) in [Bauddhik-Geeks/Coding](https://github.com/Bauddhik-Geeks/Coding)
+1. 🎉 Merged PR [#7](https://github.com/Somsubhra1/Javascript-Utility-functions/pull/7) in [Somsubhra1/Javascript-Utility-functions](https://github.com/Somsubhra1/Javascript-Utility-functions)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
