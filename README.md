@@ -86,7 +86,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#23](https://github.com/Somsubhra1/Javascript-Utility-functions/pull/23) in [Somsubhra1/Javascript-Utility-functions](https://github.com/Somsubhra1/Javascript-Utility-functions)
+1. 🎉 Merged PR [#24](https://github.com/Somsubhra1/Javascript-Utility-functions/pull/24) in [Somsubhra1/Javascript-Utility-functions](https://github.com/Somsubhra1/Javascript-Utility-functions)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
