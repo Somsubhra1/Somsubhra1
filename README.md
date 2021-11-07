@@ -104,7 +104,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 1,401 Contributions in the Year 2021
+> 🏆 1,402 Contributions in the Year 2021
  > 
 > 📦 207.1 kB Used in GitHub's Storage 
  > 
@@ -170,6 +170,6 @@ TypeScript               7 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2021
+ Last Updated on 07/11/2021
 <!--END_SECTION:waka-->
 </details>
