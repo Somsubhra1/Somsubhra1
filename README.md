@@ -86,7 +86,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#28](https://github.com/Somsubhra1/Javascript-Utility-functions/pull/28) in [Somsubhra1/Javascript-Utility-functions](https://github.com/Somsubhra1/Javascript-Utility-functions)
+1. 💪 Opened PR [#5](https://github.com/do-community/kubernetes-challenge/pull/5) in [do-community/kubernetes-challenge](https://github.com/do-community/kubernetes-challenge)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
