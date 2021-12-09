@@ -103,11 +103,9 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%208%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 1,524 Contributions in the Year 2021
+> 🏆 1,525 Contributions in the Year 2021
  > 
 > 📦 206.8 kB Used in GitHub's Storage 
  > 
@@ -122,8 +120,8 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 ```text
 🌞 Morning    163 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
 🌆 Daytime    545 commits    █████████░░░░░░░░░░░░░░░░   39.38% 
-🌃 Evening    519 commits    █████████░░░░░░░░░░░░░░░░   37.5% 
-🌙 Night      157 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.34%
+🌃 Evening    518 commits    █████████░░░░░░░░░░░░░░░░   37.43% 
+🌙 Night      158 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.42%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -132,9 +130,9 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 Monday       154 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
 Tuesday      196 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
 Wednesday    146 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
-Thursday     207 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.96% 
+Thursday     208 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
 Friday       205 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-Saturday     236 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
+Saturday     235 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
 Sunday       240 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.34%
 
 ```
@@ -173,6 +171,6 @@ TypeScript               7 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/12/2021
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
 </details>
