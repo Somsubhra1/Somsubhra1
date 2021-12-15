@@ -103,6 +103,8 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <details>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2019%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 1,542 Contributions in the Year 2021
