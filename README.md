@@ -103,7 +103,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs-blue)
 
 **🐱 My GitHub Data** 
 
