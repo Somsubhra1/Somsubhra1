@@ -109,7 +109,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 > 🏆 104 Contributions in the Year 2022
  > 
-> 📦 207.5 kB Used in GitHub's Storage 
+> 📦 207.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -173,6 +173,6 @@ TypeScript               8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2022 06:28:23 UTC
+ Last Updated on 23/01/2022 18:24:41 UTC
 <!--END_SECTION:waka-->
 </details>
