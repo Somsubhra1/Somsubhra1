@@ -103,8 +103,6 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2058%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 128 Contributions in the Year 2022
@@ -172,6 +170,6 @@ TypeScript               8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2022 18:24:41 UTC
+ Last Updated on 31/01/2022 00:54:57 UTC
 <!--END_SECTION:waka-->
 </details>
