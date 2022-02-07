@@ -38,7 +38,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 |         Student Ambassador          | [@AgoraIO-Community](https://github.com/AgoraIO-Community) | Apr 2021 - Present  |
 |         Student Ambassador          |                  [@APS](https://aps.org)                   | Apr 2021 - Present  |
 |           Student Expert            |      [@Postmanlabs](https://github.com/postmanlabs/)       | Mar 2021 - Present  |
-|           Web Design Lead           |              [@DSC UEMK](https://dscuemk.co/)              | Oct 2020 - Present  |
+|           Web Design Lead           |              [@DSC UEMK](https://dscuemk.co/)              | Oct 2020 - Oct 2021 |
 | Vice President & Lead Web Developer |         [@SPIE OSA UEMK](http://spieosauemk.team/)         | Jan 2020 - Present  |
 |           Student Member            |                       [@IETE UEMK]()                       | Sept 2019 - Present |
 |         Lead Web Developer          |              [@Ureckon](https://ureckon.org/)              | Oct 2018 - Present  |
@@ -92,6 +92,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 #### MY LATEST BLOGS
 
 <!-- BLOG-POST-LIST:START -->
+
 - [DigitalOcean Kubernetes Challenge - MongoDB On Kubernetes](https://dev.to/somsubhra1/digitalocean-kubernetes-challenge-mongodb-on-kubernetes-367k)
 - [Prisma Data Platform - Prisma ORM on Cloud](https://dev.to/somsubhra1/prisma-data-platform-prisma-orm-on-cloud-2854)
 - [Supabase - An OpenSource Firebase Alternative](https://dev.to/somsubhra1/supabase-an-opensource-firebase-alternative-51h4)
@@ -105,71 +106,70 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2057%20mins-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 150 Contributions in the Year 2022
- > 
-> 📦 207.7 kB Used in GitHub's Storage 
- > 
+>
+> 📦 207.7 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 156 Public Repositories 
- > 
-> 🔑 12 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 156 Public Repositories
+>
+> 🔑 12 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
-🌆 Daytime    593 commits    ██████████░░░░░░░░░░░░░░░   39.51% 
-🌃 Evening    550 commits    █████████░░░░░░░░░░░░░░░░   36.64% 
+🌞 Morning    167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.13%
+🌆 Daytime    593 commits    ██████████░░░░░░░░░░░░░░░   39.51%
+🌃 Evening    550 commits    █████████░░░░░░░░░░░░░░░░   36.64%
 🌙 Night      191 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.72%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday       149 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
-Tuesday      196 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.06% 
-Wednesday    157 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
-Thursday     204 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
-Friday       222 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
-Saturday     296 commits    █████░░░░░░░░░░░░░░░░░░░░   19.72% 
+Monday       149 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.93%
+Tuesday      196 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.06%
+Wednesday    157 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.46%
+Thursday     204 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59%
+Friday       222 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.79%
+Saturday     296 commits    █████░░░░░░░░░░░░░░░░░░░░   19.72%
 Sunday       277 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.45%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-JavaScript               52 mins             ██████████████████████░░░   88.69% 
-Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.56% 
+💬 Programming Languages:
+JavaScript               52 mins             ██████████████████████░░░   88.69%
+Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.56%
 JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.76%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  58 mins             █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               43 repos            ███████████░░░░░░░░░░░░░░   44.79% 
-HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Python                   11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
-CSS                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
+JavaScript               43 repos            ███████████░░░░░░░░░░░░░░   44.79%
+HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+Python                   11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46%
+CSS                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.42%
 TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png)
 
+Last Updated on 07/02/2022 06:28:40 UTC
 
- Last Updated on 07/02/2022 06:28:40 UTC
 <!--END_SECTION:waka-->
 </details>
