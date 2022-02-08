@@ -20,8 +20,8 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 |            💼 Designation            |                          🏢 Organization                          |     ⏰ Timeline     |
 | :----------------------------------: | :---------------------------------------------------------------: | :-----------------: |
-| Software Development Engineer Intern |                   [@SDS](https://seamless.se/)                    | Aug 2021 - Present  |
 |    Lead Backend Developer Intern     |                [@Dezignoo](https://dezignoo.com/)                 | Oct 2020 - Present  |
+| Software Development Engineer Intern |                   [@SDS](https://seamless.se/)                    | Aug 2021 - Feb 2022 |
 |            Project Mentor            | [@IEM Labs](https://github.com/IEMA-Research-Development-Pvt-Ltd) | Jul 2021 - Aug 2021 |
 |     Backend Developer Freelancer     |                 [@Smow (Canada)](http://smow.ca/)                 |      May 2021       |
 |       Backend Developer Intern       |         [@Unigo Cabs](https://github.com/UnigoCabs-Dev/)          | Jan 2021 - Apr 2021 |
@@ -45,10 +45,10 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 #### WORKS
 
-- 🔭 I’m currently working as the Software Development Engineer (Intern) at https://seamless.se/
+- 🔭 I’m currently working as Lead Backend Developer (Intern) at https://dezignoo.com/
 - 🌱 I’m currently learning Java EE & Spring Framework.
 - 👯 I’m looking to collaborate Full Stack Web Development Projects
-- 💼 Portfolio: Check out my Portfolio at https://somsubhra.co
+- 💼 Portfolio: Check out my Portfolio at https://somsubhra1.github.io
 - 💬 Ask me about Full Stack Web Development | Backend Development | App Development | GUI Based Applications | Data Structures | Algorithms
 - 📫 How to reach me: https://www.linkedin.com/in/somsubhradas/
 - 😄 Pronouns: | Web developer | Coder | Tech lover | Foodie | Music Lover | Geek | Bookworm | Introvert
@@ -92,6 +92,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 #### MY LATEST BLOGS
 
 <!-- BLOG-POST-LIST:START -->
+
 - [DigitalOcean Kubernetes Challenge - MongoDB On Kubernetes](https://dev.to/somsubhra1/digitalocean-kubernetes-challenge-mongodb-on-kubernetes-367k)
 - [Prisma Data Platform - Prisma ORM on Cloud](https://dev.to/somsubhra1/prisma-data-platform-prisma-orm-on-cloud-2854)
 - [Supabase - An OpenSource Firebase Alternative](https://dev.to/somsubhra1/supabase-an-opensource-firebase-alternative-51h4)
@@ -105,71 +106,70 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%206%20mins-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 151 Contributions in the Year 2022
- > 
-> 📦 207.7 kB Used in GitHub's Storage 
- > 
+>
+> 📦 207.7 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 156 Public Repositories 
- > 
-> 🔑 12 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 156 Public Repositories
+>
+> 🔑 12 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.12% 
-🌆 Daytime    594 commits    ██████████░░░░░░░░░░░░░░░   39.55% 
-🌃 Evening    550 commits    █████████░░░░░░░░░░░░░░░░   36.62% 
+🌞 Morning    167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.12%
+🌆 Daytime    594 commits    ██████████░░░░░░░░░░░░░░░   39.55%
+🌃 Evening    550 commits    █████████░░░░░░░░░░░░░░░░   36.62%
 🌙 Night      191 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.72%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday       150 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.99% 
-Tuesday      196 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.05% 
-Wednesday    157 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-Thursday     204 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
-Friday       222 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Saturday     296 commits    █████░░░░░░░░░░░░░░░░░░░░   19.71% 
+Monday       150 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.99%
+Tuesday      196 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.05%
+Wednesday    157 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.45%
+Thursday     204 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.58%
+Friday       222 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.78%
+Saturday     296 commits    █████░░░░░░░░░░░░░░░░░░░░   19.71%
 Sunday       277 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.44%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-JavaScript               9 mins              ██████████░░░░░░░░░░░░░░░   41.19% 
-Markdown                 9 mins              █████████░░░░░░░░░░░░░░░░   39.44% 
+💬 Programming Languages:
+JavaScript               9 mins              ██████████░░░░░░░░░░░░░░░   41.19%
+Markdown                 9 mins              █████████░░░░░░░░░░░░░░░░   39.44%
 Bash                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.37%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  22 mins             █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               43 repos            ███████████░░░░░░░░░░░░░░   44.79% 
-HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Python                   11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
-CSS                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
+JavaScript               43 repos            ███████████░░░░░░░░░░░░░░   44.79%
+HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+Python                   11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46%
+CSS                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.42%
 TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png)
 
+Last Updated on 08/02/2022 12:33:13 UTC
 
- Last Updated on 08/02/2022 12:33:13 UTC
 <!--END_SECTION:waka-->
 </details>
