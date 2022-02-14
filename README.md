@@ -20,6 +20,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 |            💼 Designation            |                          🏢 Organization                          |     ⏰ Timeline     |
 | :----------------------------------: | :---------------------------------------------------------------: | :-----------------: |
+|          Backend Developer           |                  [@SoluLab](https://solulab.com)                  | Feb 2022 - Present  |
 |    Lead Backend Developer Intern     |                [@Dezignoo](https://dezignoo.com/)                 | Oct 2020 - Present  |
 | Software Development Engineer Intern |                   [@SDS](https://seamless.se/)                    | Aug 2021 - Feb 2022 |
 |            Project Mentor            | [@IEM Labs](https://github.com/IEMA-Research-Development-Pvt-Ltd) | Jul 2021 - Aug 2021 |
@@ -45,7 +46,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 #### WORKS
 
-- 🔭 I’m currently working as Lead Backend Developer (Intern) at https://dezignoo.com/
+- 🔭 I’m currently working as Backend Developer at [SoluLab](https://solulab.com)
 - 🌱 I’m currently learning Java EE & Spring Framework.
 - 👯 I’m looking to collaborate Full Stack Web Development Projects
 - 💼 Portfolio: Check out my Portfolio at https://somsubhra1.github.io
@@ -92,6 +93,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 #### MY LATEST BLOGS
 
 <!-- BLOG-POST-LIST:START -->
+
 - [DigitalOcean Kubernetes Challenge - MongoDB On Kubernetes](https://dev.to/somsubhra1/digitalocean-kubernetes-challenge-mongodb-on-kubernetes-367k)
 - [Prisma Data Platform - Prisma ORM on Cloud](https://dev.to/somsubhra1/prisma-data-platform-prisma-orm-on-cloud-2854)
 - [Supabase - An OpenSource Firebase Alternative](https://dev.to/somsubhra1/supabase-an-opensource-firebase-alternative-51h4)
@@ -103,73 +105,72 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <details>
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 161 Contributions in the Year 2022
- > 
-> 📦 209.1 kB Used in GitHub's Storage 
- > 
+>
+> 📦 209.1 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 157 Public Repositories 
- > 
-> 🔑 12 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 157 Public Repositories
+>
+> 🔑 12 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
-🌆 Daytime    594 commits    █████████░░░░░░░░░░░░░░░░   39.36% 
-🌃 Evening    556 commits    █████████░░░░░░░░░░░░░░░░   36.85% 
+🌞 Morning    167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.07%
+🌆 Daytime    594 commits    █████████░░░░░░░░░░░░░░░░   39.36%
+🌃 Evening    556 commits    █████████░░░░░░░░░░░░░░░░   36.85%
 🌙 Night      192 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.72%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday       151 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.01% 
-Tuesday      197 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.06% 
-Wednesday    157 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
-Thursday     205 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
-Friday       224 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
-Saturday     296 commits    █████░░░░░░░░░░░░░░░░░░░░   19.62% 
+Monday       151 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.01%
+Tuesday      197 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.06%
+Wednesday    157 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.4%
+Thursday     205 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59%
+Friday       224 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.84%
+Saturday     296 commits    █████░░░░░░░░░░░░░░░░░░░░   19.62%
 Sunday       279 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.49%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-JavaScript               33 mins             ████████░░░░░░░░░░░░░░░░░   33.32% 
-Bash                     27 mins             ██████░░░░░░░░░░░░░░░░░░░   27.36% 
-Markdown                 26 mins             ██████░░░░░░░░░░░░░░░░░░░   26.28% 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.45% 
+💬 Programming Languages:
+JavaScript               33 mins             ████████░░░░░░░░░░░░░░░░░   33.32%
+Bash                     27 mins             ██████░░░░░░░░░░░░░░░░░░░   27.36%
+Markdown                 26 mins             ██████░░░░░░░░░░░░░░░░░░░   26.28%
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.45%
 YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.45%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  1 hr 41 mins        █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               43 repos            ███████████░░░░░░░░░░░░░░   45.26% 
-HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
-Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
-CSS                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
+JavaScript               43 repos            ███████████░░░░░░░░░░░░░░   45.26%
+HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.63%
+Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.58%
+CSS                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.47%
 TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png)
 
+Last Updated on 14/02/2022 01:00:52 UTC
 
- Last Updated on 14/02/2022 01:00:52 UTC
 <!--END_SECTION:waka-->
 </details>
