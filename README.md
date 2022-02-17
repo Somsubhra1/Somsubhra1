@@ -47,7 +47,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 #### WORKS
 
 - 🔭 I’m currently working as Backend Developer at [SoluLab](https://solulab.com)
-- 🌱 I’m currently learning Java EE & Spring Framework.
+- 🌱 I’m currently learning Web3JS & GraphQL.
 - 👯 I’m looking to collaborate Full Stack Web Development Projects
 - 💼 Portfolio: Check out my Portfolio at https://somsubhra1.github.io
 - 💬 Ask me about Full Stack Web Development | Backend Development | App Development | GUI Based Applications | Data Structures | Algorithms
