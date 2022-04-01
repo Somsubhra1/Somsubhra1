@@ -145,12 +145,10 @@ Sunday       265 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               30 mins             ███████████████████████░░   92.4% 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -171,6 +169,6 @@ CSS                      8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/03/2022 12:40:28 UTC
+ Last Updated on 01/04/2022 06:26:46 UTC
 <!--END_SECTION:waka-->
 </details>
