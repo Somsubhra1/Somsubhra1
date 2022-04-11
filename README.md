@@ -87,7 +87,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/ayushnanda21/Import_Export_to_DB/pull/1) in [ayushnanda21/Import_Export_to_DB](https://github.com/ayushnanda21/Import_Export_to_DB)
+1. 💪 Opened PR [#1](https://github.com/ayushnanda21/eshop-2-API/pull/1) in [ayushnanda21/eshop-2-API](https://github.com/ayushnanda21/eshop-2-API)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
