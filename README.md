@@ -87,7 +87,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/ayushnanda21/eshop-2-API/pull/1) in [ayushnanda21/eshop-2-API](https://github.com/ayushnanda21/eshop-2-API)
+1. 💪 Opened PR [#22](https://github.com/education/GitHubGraduation-2022/pull/22) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
