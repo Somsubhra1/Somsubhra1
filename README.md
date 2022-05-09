@@ -20,7 +20,6 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 |            💼 Designation            |                          🏢 Organization                          |     ⏰ Timeline     |
 | :----------------------------------: | :---------------------------------------------------------------: | :-----------------: |
-|          Backend Developer           |                  [@SoluLab](https://solulab.com)                  | Feb 2022 - Present  |
 |    Lead Backend Developer Intern     |                [@Dezignoo](https://dezignoo.com/)                 | Oct 2020 - Present  |
 | Software Development Engineer Intern |                   [@SDS](https://seamless.se/)                    | Aug 2021 - Feb 2022 |
 |            Project Mentor            | [@IEM Labs](https://github.com/IEMA-Research-Development-Pvt-Ltd) | Jul 2021 - Aug 2021 |
@@ -46,7 +45,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 #### WORKS
 
-- 🔭 I’m currently working as Backend Developer at [SoluLab](https://solulab.com)
+- 🔭 I’m currently working as Lead Backend Developer Intern at [Dezignoo](https://dezignoo.com)
 - 🌱 I’m currently learning Web3JS & GraphQL.
 - 👯 I’m looking to collaborate Full Stack Web Development Projects
 - 💼 Portfolio: Check out my Portfolio at https://somsubhra1.github.io
