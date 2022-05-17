@@ -103,7 +103,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%201%20min-blue)
 
 **🐱 My GitHub Data** 
 
@@ -144,11 +144,10 @@ Sunday       235 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 mins              ████████████████████████░   96.87% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13%
+TypeScript               0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+VS Code                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -169,6 +168,6 @@ CSS                      7 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/05/2022 18:30:30 UTC
+ Last Updated on 17/05/2022 01:26:00 UTC
 <!--END_SECTION:waka-->
 </details>
