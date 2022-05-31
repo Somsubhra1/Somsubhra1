@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there 👋, I'm Somsubhra Das. </h3>
 
-<h4 align="center"> I'm a full Stack Developer currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata.  </h4>
+<h4 align="center"> I'm a full Stack Developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.  </h4>
 
 #### BIO
 
@@ -20,6 +20,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 |            💼 Designation            |                          🏢 Organization                          |     ⏰ Timeline     |
 | :----------------------------------: | :---------------------------------------------------------------: | :-----------------: |
+|           Systems Engineer           |                     [@TCS](https://tcs.com/)                      | May 2022 - Present  |
 |    Lead Backend Developer Intern     |                [@Dezignoo](https://dezignoo.com/)                 | Oct 2020 - Present  |
 | Software Development Engineer Intern |                   [@SDS](https://seamless.se/)                    | Aug 2021 - Feb 2022 |
 |            Project Mentor            | [@IEM Labs](https://github.com/IEMA-Research-Development-Pvt-Ltd) | Jul 2021 - Aug 2021 |
@@ -32,21 +33,21 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 #### VOLUNTEER/COMMUNITY EXPERIENCE
 
-|           💼 Designation            |                      🏢 Organization                       |     ⏰ Timeline     |
-| :---------------------------------: | :--------------------------------------------------------: | :-----------------: |
-|             Ambassador              |            [@Prisma](https://github.com/prisma)            | Jul 2021 - Present  |
-|         Student Ambassador          | [@AgoraIO-Community](https://github.com/AgoraIO-Community) | Apr 2021 - Present  |
-|         Student Ambassador          |                  [@APS](https://aps.org)                   | Apr 2021 - Present  |
-|           Student Expert            |      [@Postmanlabs](https://github.com/postmanlabs/)       | Mar 2021 - Present  |
-|           Web Design Lead           |              [@DSC UEMK](https://dscuemk.co/)              | Oct 2020 - Oct 2021 |
-| Vice President & Lead Web Developer |         [@SPIE OSA UEMK](http://spieosauemk.team/)         | Jan 2020 - Present  |
-|           Student Member            |                       [@IETE UEMK]()                       | Sept 2019 - Present |
-|         Lead Web Developer          |              [@Ureckon](https://ureckon.org/)              | Oct 2018 - Present  |
+|           💼 Designation            |                      🏢 Organization                       |     ⏰ Timeline      |
+| :---------------------------------: | :--------------------------------------------------------: | :------------------: |
+|             Ambassador              |            [@Prisma](https://github.com/prisma)            |  Jul 2021 - Present  |
+|         Student Ambassador          |                  [@APS](https://aps.org)                   |  Apr 2021 - Present  |
+| Vice President & Lead Web Developer |         [@SPIE OSA UEMK](http://spieosauemk.team/)         |  Jan 2020 - Present  |
+|         Student Ambassador          | [@AgoraIO-Community](https://github.com/AgoraIO-Community) | Apr 2021 - Apr 2022  |
+|           Student Member            |                       [@IETE UEMK]()                       | Sept 2019 - Apr 2022 |
+|         Lead Web Developer          |              [@Ureckon](https://ureckon.org/)              | Oct 2018 - Apr 2022  |
+|           Student Expert            |      [@Postmanlabs](https://github.com/postmanlabs/)       | Mar 2021 - Mar 2022  |
+|           Web Design Lead           |              [@DSC UEMK](https://dscuemk.co/)              | Oct 2020 - Oct 2021  |
 
 #### WORKS
 
-- 🔭 I’m currently working as Lead Backend Developer Intern at [Dezignoo](https://dezignoo.com)
-- 🌱 I’m currently learning Web3JS & GraphQL.
+- 🔭 I’m currently working as Systems Engineer at [TCS](https://tcs.com)
+- 🌱 I’m currently learning GraphQL and Spring Framework.
 - 👯 I’m looking to collaborate Full Stack Web Development Projects
 - 💼 Portfolio: Check out my Portfolio at https://somsubhra1.github.io
 - 💬 Ask me about Full Stack Web Development | Backend Development | App Development | GUI Based Applications | Data Structures | Algorithms
@@ -92,6 +93,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 #### MY LATEST BLOGS
 
 <!-- BLOG-POST-LIST:START -->
+
 - [DigitalOcean Kubernetes Challenge - MongoDB On Kubernetes](https://dev.to/somsubhra1/digitalocean-kubernetes-challenge-mongodb-on-kubernetes-367k)
 - [Prisma Data Platform - Prisma ORM on Cloud](https://dev.to/somsubhra1/prisma-data-platform-prisma-orm-on-cloud-2854)
 - [Supabase - An OpenSource Firebase Alternative](https://dev.to/somsubhra1/supabase-an-opensource-firebase-alternative-51h4)
@@ -105,69 +107,68 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%201%20min-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 332 Contributions in the Year 2022
- > 
-> 📦 209.7 kB Used in GitHub's Storage 
- > 
+>
+> 📦 209.7 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 163 Public Repositories 
- > 
-> 🔑 12 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 163 Public Repositories
+>
+> 🔑 12 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    154 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
-🌆 Daytime    518 commits    ██████████░░░░░░░░░░░░░░░   41.61% 
-🌃 Evening    422 commits    ████████░░░░░░░░░░░░░░░░░   33.9% 
+🌞 Morning    154 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.37%
+🌆 Daytime    518 commits    ██████████░░░░░░░░░░░░░░░   41.61%
+🌃 Evening    422 commits    ████████░░░░░░░░░░░░░░░░░   33.9%
 🌙 Night      151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.13%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday       141 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
-Tuesday      194 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
-Wednesday    101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
-Thursday     145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
-Friday       157 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-Saturday     282 commits    █████░░░░░░░░░░░░░░░░░░░░   22.65% 
+Monday       141 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.33%
+Tuesday      194 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.58%
+Wednesday    101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
+Thursday     145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.65%
+Friday       157 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.61%
+Saturday     282 commits    █████░░░░░░░░░░░░░░░░░░░░   22.65%
 Sunday       225 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.07%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               45 repos            ███████████░░░░░░░░░░░░░░   46.88% 
-HTML                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
-TypeScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
-Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
+JavaScript               45 repos            ███████████░░░░░░░░░░░░░░   46.88%
+HTML                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46%
+TypeScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46%
+Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.42%
 CSS                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.29%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png)
 
+Last Updated on 31/05/2022 06:30:41 UTC
 
- Last Updated on 31/05/2022 06:30:41 UTC
 <!--END_SECTION:waka-->
 </details>
