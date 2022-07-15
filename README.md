@@ -21,7 +21,6 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 |            💼 Designation            |                          🏢 Organization                          |     ⏰ Timeline     |
 | :----------------------------------: | :---------------------------------------------------------------: | :-----------------: |
 |           Systems Engineer           |                     [@TCS](https://tcs.com/)                      | May 2022 - Present  |
-|    Lead Backend Developer Intern     |                [@Dezignoo](https://dezignoo.com/)                 | Oct 2020 - Present  |
 | Software Development Engineer Intern |                   [@SDS](https://seamless.se/)                    | Aug 2021 - Feb 2022 |
 |            Project Mentor            | [@IEM Labs](https://github.com/IEMA-Research-Development-Pvt-Ltd) | Jul 2021 - Aug 2021 |
 |     Backend Developer Freelancer     |                 [@Smow (Canada)](http://smow.ca/)                 |      May 2021       |
@@ -29,6 +28,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 |       NodeJS Backend Engineer        |         [@ThirdX Design (Berlin)](https://thirdx.design/)         | Dec 2020 - Feb 2021 |
 |       Backend Developer Intern       |              [@Simpheal Inc](https://simpheal.com/)               | Dec 2020 - Jan 2021 |
 |              Freelancer              |   [@Calcutta Pilot Training](http://calcuttapilottraining.com/)   | Nov 2020 - Dec 2020 |
+|    Lead Backend Developer Intern     |                [@Dezignoo](https://dezignoo.com/)                 | Oct 2020 - Apr 2022 |
 |          Backend Developer           |              [@Learnbird](https://www.learnbird.in/)              | Apr 2020 - Nov 2020 |
 
 #### VOLUNTEER/COMMUNITY EXPERIENCE
@@ -93,6 +93,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 #### MY LATEST BLOGS
 
 <!-- BLOG-POST-LIST:START -->
+
 - [DigitalOcean Kubernetes Challenge - MongoDB On Kubernetes](https://dev.to/somsubhra1/digitalocean-kubernetes-challenge-mongodb-on-kubernetes-367k)
 - [Prisma Data Platform - Prisma ORM on Cloud](https://dev.to/somsubhra1/prisma-data-platform-prisma-orm-on-cloud-2854)
 - [Supabase - An OpenSource Firebase Alternative](https://dev.to/somsubhra1/supabase-an-opensource-firebase-alternative-51h4)
@@ -106,69 +107,68 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 377 Contributions in the Year 2022
- > 
-> 📦 210.9 kB Used in GitHub's Storage 
- > 
+>
+> 📦 210.9 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 163 Public Repositories 
- > 
-> 🔑 12 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 163 Public Repositories
+>
+> 🔑 12 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
-🌆 Daytime    339 commits    █████████░░░░░░░░░░░░░░░░   38.26% 
-🌃 Evening    289 commits    ████████░░░░░░░░░░░░░░░░░   32.62% 
+🌞 Morning    118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.32%
+🌆 Daytime    339 commits    █████████░░░░░░░░░░░░░░░░   38.26%
+🌃 Evening    289 commits    ████████░░░░░░░░░░░░░░░░░   32.62%
 🌙 Night      140 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.8%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
-Tuesday      108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
-Wednesday    74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.35% 
-Thursday     96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.84% 
-Friday       118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
-Saturday     199 commits    █████░░░░░░░░░░░░░░░░░░░░   22.46% 
+Monday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.51%
+Tuesday      108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.19%
+Wednesday    74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.35%
+Thursday     96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.84%
+Friday       118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.32%
+Saturday     199 commits    █████░░░░░░░░░░░░░░░░░░░░   22.46%
 Sunday       189 commits    █████░░░░░░░░░░░░░░░░░░░░   21.33%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               45 repos            ███████████░░░░░░░░░░░░░░   46.88% 
-HTML                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
-TypeScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
-Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
+JavaScript               45 repos            ███████████░░░░░░░░░░░░░░   46.88%
+HTML                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46%
+TypeScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46%
+Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.42%
 CSS                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.29%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png)
 
+Last Updated on 15/07/2022 01:58:32 UTC
 
- Last Updated on 15/07/2022 01:58:32 UTC
 <!--END_SECTION:waka-->
 </details>
