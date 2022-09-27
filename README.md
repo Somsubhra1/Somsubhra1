@@ -118,6 +118,40 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
  > 
 > 🔑 12 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    122 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
+🌆 Daytime    267 commits    ████████░░░░░░░░░░░░░░░░░   35.13% 
+🌃 Evening    246 commits    ████████░░░░░░░░░░░░░░░░░   32.37% 
+🌙 Night      125 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.45%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
+Tuesday      99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
+Wednesday    75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.87% 
+Thursday     71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
+Friday       86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
+Saturday     173 commits    █████░░░░░░░░░░░░░░░░░░░░   22.76% 
+Sunday       171 commits    █████░░░░░░░░░░░░░░░░░░░░   22.5%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -135,6 +169,6 @@ CSS                      7 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 18:38:56 UTC
+ Last Updated on 27/09/2022 01:57:49 UTC
 <!--END_SECTION:waka-->
 </details>
