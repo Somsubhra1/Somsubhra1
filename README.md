@@ -47,7 +47,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 #### WORKS
 
 - 🔭 I’m currently working as Systems Engineer at [TCS](https://tcs.com)
-- 🌱 I’m currently learning GraphQL and Spring Framework.
+- 🌱 I’m currently learning .NET Framework, .NET Core and Angular.
 - 👯 I’m looking to collaborate Full Stack Web Development Projects
 - 💼 Portfolio: Check out my Portfolio at https://somsubhra1.github.io
 - 💬 Ask me about Full Stack Web Development | Backend Development | App Development | GUI Based Applications | Data Structures | Algorithms
