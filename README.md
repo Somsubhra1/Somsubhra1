@@ -87,7 +87,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#22](https://github.com/education/GitHubGraduation-2022/pull/22) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+1. 💪 Opened PR [#2](https://github.com/Kinjalrk2k/nginx.conf/pull/2) in [Kinjalrk2k/nginx.conf](https://github.com/Kinjalrk2k/nginx.conf)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
