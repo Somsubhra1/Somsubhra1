@@ -87,7 +87,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/Kinjalrk2k/nginx.conf/pull/2) in [Kinjalrk2k/nginx.conf](https://github.com/Kinjalrk2k/nginx.conf)
+1. 🗣 Commented on [#6](https://github.com/Somsubhra1/Bash-scripts/issues/6) in [Somsubhra1/Bash-scripts](https://github.com/Somsubhra1/Bash-scripts)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
