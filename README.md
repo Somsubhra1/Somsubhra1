@@ -87,7 +87,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/Somsubhra1/Bash-scripts/pull/9) in [Somsubhra1/Bash-scripts](https://github.com/Somsubhra1/Bash-scripts)
+1. 🎉 Merged PR [#4](https://github.com/Somsubhra1/GitHub-Actions-collection/pull/4) in [Somsubhra1/GitHub-Actions-collection](https://github.com/Somsubhra1/GitHub-Actions-collection)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
