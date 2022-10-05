@@ -87,7 +87,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/Somsubhra1/GitHub-Actions-collection/pull/4) in [Somsubhra1/GitHub-Actions-collection](https://github.com/Somsubhra1/GitHub-Actions-collection)
+1. 💪 Opened PR [#1](https://github.com/Shubhamdutta2000/Design-Patterns/pull/1) in [Shubhamdutta2000/Design-Patterns](https://github.com/Shubhamdutta2000/Design-Patterns)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
