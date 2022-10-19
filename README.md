@@ -104,13 +104,13 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2050%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 581 Contributions in the Year 2022
  > 
-> 📦 212.3 kB Used in GitHub's Storage 
+> 📦 212.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -145,13 +145,11 @@ Sunday       185 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               13 mins             █████████████░░░░░░░░░░░░   54.01% 
-Other                    6 mins              ██████░░░░░░░░░░░░░░░░░░░   26.8% 
-Python                   4 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.03% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+Other                    7 mins              ██████████████░░░░░░░░░░░   56.78% 
+Python                   5 mins              ██████████░░░░░░░░░░░░░░░   43.22%
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.0%
+VS Code                  12 mins             █████████████████████████   100.0%
 
 ```
 
@@ -172,6 +170,6 @@ CSS                      7 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/10/2022 18:41:33 UTC
+ Last Updated on 19/10/2022 02:05:35 UTC
 <!--END_SECTION:waka-->
 </details>
