@@ -110,7 +110,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 > 🏆 583 Contributions in the Year 2022
  > 
-> 📦 212.5 kB Used in GitHub's Storage 
+> 📦 212.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -145,12 +145,12 @@ Sunday       179 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     16 mins             ██████████████░░░░░░░░░░░   56.46% 
-Other                    7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.72% 
-Python                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.82%
+Java                     16 mins             ██████████████████████░░░   91.05% 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.91% 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.05%
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.0%
+VS Code                  18 mins             █████████████████████████   100.0%
 
 ```
 
@@ -171,6 +171,6 @@ CSS                      7 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/10/2022 18:44:10 UTC
+ Last Updated on 25/10/2022 02:04:28 UTC
 <!--END_SECTION:waka-->
 </details>
