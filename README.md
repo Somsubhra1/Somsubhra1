@@ -4,7 +4,7 @@
 
 #### BIO
 
-Full Stack Developer, NodeJS, Django Developer. Also efficient in working with LAMP stack, NestJS, server management automation using Bash, Desktop App Development using Java and Python, experience in Web App Development. Proficient in System Administration and DevOps with great communicative and management skills.
+Full Stack Developer, NodeJS, Django Developer. Also efficient in working with LAMP stack, .NET Core, NestJS, server management automation using Bash, Desktop App Development using Java and Python, experience in Web App Development. Proficient in System Administration and DevOps with great communicative and management skills.
 
 #### SKILLS
 
