@@ -87,7 +87,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/Somsubhra1/Encryption-Algorithms/pull/10) in [Somsubhra1/Encryption-Algorithms](https://github.com/Somsubhra1/Encryption-Algorithms)
+1. 🎉 Merged PR [#1](https://github.com/Somsubhra1/.Net-Core-API-JWT-Auth/pull/1) in [Somsubhra1/.Net-Core-API-JWT-Auth](https://github.com/Somsubhra1/.Net-Core-API-JWT-Auth)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
