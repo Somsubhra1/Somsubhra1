@@ -87,7 +87,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Somsubhra1/.Net-Core-API-JWT-Auth/pull/1) in [Somsubhra1/.Net-Core-API-JWT-Auth](https://github.com/Somsubhra1/.Net-Core-API-JWT-Auth)
+1. 🎉 Merged PR [#1](https://github.com/Somsubhra1/.Net-Core-MVC-Sample-App/pull/1) in [Somsubhra1/.Net-Core-MVC-Sample-App](https://github.com/Somsubhra1/.Net-Core-MVC-Sample-App)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
