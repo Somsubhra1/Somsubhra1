@@ -108,7 +108,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 **🐱 My GitHub Data** 
 
-> 📦 218.9 kB Used in GitHub's Storage 
+> 📦 219.0 kB Used in GitHub's Storage 
  > 
 > 🏆 2 Contributions in the Year 2023
  > 
@@ -166,6 +166,6 @@ C#                       3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2023 01:08:57 UTC
+ Last Updated on 11/04/2023 06:24:15 UTC
 <!--END_SECTION:waka-->
 </details>
