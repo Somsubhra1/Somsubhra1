@@ -87,7 +87,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Somsubhra1/.Net-Core-MVC-Sample-App/pull/1) in [Somsubhra1/.Net-Core-MVC-Sample-App](https://github.com/Somsubhra1/.Net-Core-MVC-Sample-App)
+1. 🎉 Merged PR [#39](https://github.com/Somsubhra1/Bash-scripts/pull/39) in [Somsubhra1/Bash-scripts](https://github.com/Somsubhra1/Bash-scripts)
 <!--END_SECTION:activity-->
 
 #### MY LATEST BLOGS
