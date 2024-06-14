@@ -110,8 +110,6 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 > 📦 222.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 172 Public Repositories 
@@ -166,6 +164,6 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2024 06:25:33 UTC
+ Last Updated on 14/06/2024 12:33:32 UTC
 <!--END_SECTION:waka-->
 </details>
