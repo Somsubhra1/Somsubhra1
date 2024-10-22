@@ -104,13 +104,9 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2012%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 222.5 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -166,6 +162,6 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2024 18:28:18 UTC
+ Last Updated on 22/10/2024 01:21:01 UTC
 <!--END_SECTION:waka-->
 </details>
