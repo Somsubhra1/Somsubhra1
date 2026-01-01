@@ -110,7 +110,7 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 > 📦 223.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -166,6 +166,6 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:34:46 UTC
+ Last Updated on 01/01/2026 01:56:47 UTC
 <!--END_SECTION:waka-->
 </details>
