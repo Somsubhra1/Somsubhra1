@@ -104,8 +104,6 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
 
 <details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2012%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 223.5 kB Used in GitHub's Storage 
@@ -118,37 +116,6 @@ Full Stack Developer, NodeJS, Django Developer. Also efficient in working with L
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-🌆 Daytime                2946 commits        █████████░░░░░░░░░░░░░░░░   34.18 % 
-🌃 Evening                3475 commits        ██████████░░░░░░░░░░░░░░░   40.31 % 
-🌙 Night                  1195 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1446 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Tuesday                  1272 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Wednesday                941 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Thursday                 1209 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   1105 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Saturday                 1081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Sunday                   1566 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -166,6 +133,6 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 13:24:17 UTC
+ Last Updated on 17/05/2026 19:13:48 UTC
 <!--END_SECTION:waka-->
 </details>
