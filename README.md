@@ -63,7 +63,7 @@ Full Stack Developer with **robust problem-solving skills** and proven expertise
 
 ## 🛠️ Core Competencies
 
-**Languages**: JavaScript, TypeScript, Python, Java, Bash, HTML/CSS, Bengali  
+**Languages**: C#, JavaScript, TypeScript, Python, Java, Bash, HTML/CSS  
 **Databases**: MongoDB, PostgreSQL, SQL, Oracle, Firebase  
 **Tools & Platforms**: Git, GitHub, AWS, Docker, Kubernetes, Azure, Linux  
 **Methodologies**: REST APIs, Microservices, CI/CD, Test-Driven Development, Agile
@@ -211,26 +211,8 @@ Full Stack Developer with **robust problem-solving skills** and proven expertise
 
 <div align="center">
 
-[![Somsubhra's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=somsubhra1&theme=github-light)](https://github.com/somsubhra1)
-
-</div>
-
-<div align="center">
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Somsubhra1&show_icons=true&theme=github_light&hide_border=false)](https://github.com/Somsubhra1)
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Somsubhra1&theme=github-light&hide_border=false)](https://github.com/Somsubhra1)
-
-</div>
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Somsubhra1&layout=compact&theme=github_light&hide_border=false)](https://github.com/Somsubhra1)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://gpvc.arturio.dev/Somsubhra1)
 
 </div>
 
