@@ -231,13 +231,11 @@ Full Stack Developer with **robust problem-solving skills** and proven expertise
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [DigitalOcean Kubernetes Challenge - MongoDB On Kubernetes](https://dev.to/somsubhra1/digitalocean-kubernetes-challenge-mongodb-on-kubernetes-367k)
 - [Prisma Data Platform - Prisma ORM on Cloud](https://dev.to/somsubhra1/prisma-data-platform-prisma-orm-on-cloud-2854)
 - [Supabase - An OpenSource Firebase Alternative](https://dev.to/somsubhra1/supabase-an-opensource-firebase-alternative-51h4)
 - [Journey from Mongoose to Prisma ORM for MongoDB!](https://dev.to/somsubhra1/journey-from-mongoose-to-prisma-orm-for-mongodb-3j21)
 - [DigitalOcean MongoDB Hackathon - Memories Sharing App](https://dev.to/somsubhra1/digitalocean-mongodb-hackathon-memories-sharing-app-2kne)
-
 <!-- BLOG-POST-LIST:END -->
 
 #### OVERALL ACTIVITY
