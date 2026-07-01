@@ -242,7 +242,7 @@ Full Stack Developer with **robust problem-solving skills** and proven expertise
 
 <details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2031%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -281,10 +281,14 @@ Sunday                   1566 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               40 mins             ███████████░░░░░░░░░░░░░░   44.92 % 
+JavaScript               19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+C#                       9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+HTML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+XML                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -304,7 +308,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2026 20:00:52 UTC
+ Last Updated on 01/07/2026 03:49:35 UTC
 <!--END_SECTION:waka-->
 </details>
 
