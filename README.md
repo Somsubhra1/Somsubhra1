@@ -281,11 +281,10 @@ Sunday                   1566 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 23 mins             █████████████████████░░░░   84.91 % 
-Other                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -305,7 +304,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2026 19:29:03 UTC
+ Last Updated on 09/07/2026 02:57:57 UTC
 <!--END_SECTION:waka-->
 </details>
 
