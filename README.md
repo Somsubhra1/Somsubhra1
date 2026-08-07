@@ -242,10 +242,6 @@ Full Stack Developer with **robust problem-solving skills** and proven expertise
 
 <details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-367%20hrs%2025%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2013%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 224.0 kB Used in GitHub's Storage 
@@ -258,47 +254,6 @@ Full Stack Developer with **robust problem-solving skills** and proven expertise
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-🌆 Daytime                2950 commits        █████████░░░░░░░░░░░░░░░░   34.20 % 
-🌃 Evening                3475 commits        ██████████░░░░░░░░░░░░░░░   40.29 % 
-🌙 Night                  1197 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1446 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Tuesday                  1276 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Wednesday                943 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Thursday                 1209 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Friday                   1105 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Saturday                 1081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Sunday                   1566 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     28 mins             █████████████░░░░░░░░░░░░   50.89 % 
-Docker                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-JavaScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -316,7 +271,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 14:11:15 UTC
+ Last Updated on 07/08/2026 00:03:47 UTC
 <!--END_SECTION:waka-->
 </details>
 
