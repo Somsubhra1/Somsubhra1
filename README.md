@@ -242,7 +242,7 @@ Full Stack Developer with **robust problem-solving skills** and proven expertise
 
 <details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-367%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2013%20mins-blue?style=flat)
 
@@ -283,14 +283,14 @@ Sunday                   1566 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     28 mins             █████████████░░░░░░░░░░░░   50.89 % 
-Docker                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-JavaScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+YAML                     52 mins             █████████████░░░░░░░░░░░░   53.88 % 
+Docker                   26 mins             ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+JavaScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -316,7 +316,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 18:59:39 UTC
+ Last Updated on 08/08/2026 01:30:47 UTC
 <!--END_SECTION:waka-->
 </details>
 
