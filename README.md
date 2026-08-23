@@ -242,7 +242,7 @@ Full Stack Developer with **robust problem-solving skills** and proven expertise
 
 <details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2013%20mins-blue?style=flat)
 
@@ -316,7 +316,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 01:19:56 UTC
+ Last Updated on 23/08/2026 06:43:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
