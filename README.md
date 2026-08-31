@@ -283,11 +283,10 @@ Sunday                   1566 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 58 mins       █████████████████████████   99.78 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -313,7 +312,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Somsubhra1/Somsubhra1/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 20:42:48 UTC
+ Last Updated on 31/08/2026 03:53:20 UTC
 <!--END_SECTION:waka-->
 </details>
 
